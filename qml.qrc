@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>USettings.qml</file>
+        <file>UWarnings.qml</file>
+        <file>Boton.qml</file>
+        <file>AppColorsThemes.qml</file>
+        <file>UBg.qml</file>
+        <file>UnikFocus.qml</file>
+        <file>Splash.qml</file>
+    </qresource>
+</RCC>
